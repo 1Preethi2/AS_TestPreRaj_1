@@ -1,0 +1,22 @@
+{
+  "name": "astest",
+  "version": "1.0.0",
+  "description": "End to end tests for react js forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raj-pac/cypress1.git"
+  },
+  "author": "Preethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raj-pac/cypress1/issues"
+  },
+  "homepage": "https://github.com/raj-pac/cypress1#readme",
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  }
+}
