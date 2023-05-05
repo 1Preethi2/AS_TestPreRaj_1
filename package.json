@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raj-pac/cypress1.git"
+    "url": "git+https://github.com/1Preethi2/AS_TestPreRaj.git"
   },
   "author": "Preethi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/raj-pac/cypress1/issues"
+    "url": "https://github.com/1Preethi2/AS_TestPreRaj/issues"
   },
-  "homepage": "https://github.com/raj-pac/cypress1#readme",
+  "homepage": "https://github.com/1Preethi2/AS_TestPreRaj#readme",
   "devDependencies": {
     "cypress": "^12.11.0"
   }
